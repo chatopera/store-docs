@@ -4,8 +4,9 @@
 
 </div>
 
-![img](./assets/imgs/screenshot_20231103151553.png)
+**我发布了开源项目，如何通过它赚钱呢？**
 
+![img](./assets/imgs/screenshot_20231103151553.png)
 
 # Chatopera 证书商店
 
