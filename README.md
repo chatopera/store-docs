@@ -26,7 +26,7 @@ Chatopera 证书商店是开发者的收银工具， [https://store.chatopera.co
 * 集成速度快：支持多语言 SDK 集成：Python, Nodejs, Java, Php, Ruby, etc.
 * 产品下单专属 URL，每个产品一个 URL 进行推广
 * 产品支持多款式，不同的额度、使用期限
-* 支持产品附件，在 URL 中通过指定证书标识，基于浏览器下载
+* 支持产品附件，在 URL 中通过指定证书标识，基于浏览器下载（或 CLI、代码等）
 
 # 案例
 
