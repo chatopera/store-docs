@@ -89,6 +89,8 @@ Chatopera 证书商店是开发者的收银工具， [https://store.chatopera.co
 
 # 我要上架
 
-填写表单申请上架：[http://apply.store.chatopera.com](http://apply.store.chatopera.com)
+## 填写表单申请上架
+
+[http://apply.store.chatopera.com](http://apply.store.chatopera.com)
 
 ![img](./assets/imgs/screenshot_20231103150656.png)
