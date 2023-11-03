@@ -64,14 +64,29 @@ Chatopera 证书商店是开发者的收银工具， [https://store.chatopera.co
 
 # 购买者的自助服务
 
-浏览产品 -
+### 浏览产品
 
 ![img](./assets/imgs/screenshot_20231103145244.png)
 
-开发票 -
+### 下单
+
+![img](./assets/imgs/screenshot_20231103145825.png)
+
+### 证书详情
+
+![img](./assets/imgs/screenshot_20231103145912.png)
+
+### 开发票
 
 ![img](./assets/imgs/screenshot_20231103145344.png)
 
-管理个人信息 -
+### 管理个人信息
 
 ![img](./assets/imgs/screenshot_20231103145441.png)
+
+
+# 我要上架
+
+填写表单申请上架：[http://apply.store.chatopera.com](http://apply.store.chatopera.com)
+
+![img](./assets/imgs/screenshot_20231103150656.png)
