@@ -12,3 +12,66 @@ Chatopera 证书商店是开发者的收银工具， [https://store.chatopera.co
 
 
 ![img](./assets/imgs/screenshot_20231103115651.jpg)
+
+* 支持多中计费策略：按照安装次数、设计计费资源、按照文件大小等
+* 支持证书的升级和续费
+* 提供保护知识产权的开源许可证 - [春松许可证, v1.0](https://gitee.com/cskefu/CPL-v1/)，开发者可使用
+* 消费者证书快要到期或耗尽配额的短信提醒
+* 消费者发票可选择快递或电子发票
+* 下单后自动通知到 IM 工具服务，实时同步，（支持使用飞书 Webhook）
+* 一周内回款，基于【微信支付-网银支付】方案
+* 集成速度快：支持多语言 SDK 集成：Python, Nodejs, Java, Php, Ruby, etc.
+* 产品专属 URL，每个产品一个 URL 进行推广
+* 产品支持多款式，不同的额度、使用期限
+* 支持产品附件，在 URL 中通过指定证书标识，基于浏览器下载
+
+# 案例
+
+## 案例 1：Synonyms 中文近义词
+
+* 产品地址：https://store.chatopera.com/product/syns001
+* 计费策略：代码运行时下载文件，按照下载次数计费；Synonyms 中，文件为机器学习语言模型
+* 项目地址：https://github.com/chatopera/Synonyms
+* 证书使用文档：[README.md](https://github.com/chatopera/Synonyms)
+
+![img](./assets/imgs/screenshot_20231103144917.png)
+
+
+## 案例 2：春松客服大讲堂
+
+* 产品地址：https://store.chatopera.com/product/cskfdjt19
+* 计费策略：下载产品附件，按照下载次数计费；春松客服大讲堂为培训课程，附件为 ~3.5 GB 的视频和课件
+* 项目地址：https://github.com/cskefu/cskefu-djt
+* 证书使用文档：[README.md](https://github.com/cskefu/cskefu-djt)
+
+
+![img](./assets/imgs/screenshot_20231103144612.png)
+
+![img](./assets/imgs/screenshot_20231103144519.png)
+
+
+## 案例 3：春松客服
+
+* 产品地址：https://store.chatopera.com/product/cskefu001
+* 计费策略：设计业务场景中的计费资源，创建资源消费证书的额度；春松客服中的座席、渠道、联系人等的创建个数
+* 项目地址：https://github.com/cskefu/cskefu
+* 证书使用文档：https://docs.cskefu.com/docs/licenses
+
+![img](./assets/imgs/screenshot_20231103145054.png)
+
+![img](./assets/imgs/screenshot_20231103145139.png)
+
+
+# 购买者的自助服务
+
+浏览产品 -
+
+![img](./assets/imgs/screenshot_20231103145244.png)
+
+开发票 -
+
+![img](./assets/imgs/screenshot_20231103145344.png)
+
+管理个人信息 -
+
+![img](./assets/imgs/screenshot_20231103145441.png)
