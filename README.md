@@ -96,3 +96,14 @@ Chatopera 证书商店是开发者的收银工具， [https://store.chatopera.co
 [http://apply.store.chatopera.com](http://apply.store.chatopera.com)
 
 ![img](./assets/imgs/screenshot_20231103150656.png)
+
+
+# 附录
+
+## 术语
+
+* Chatopera 证书商店平台,证书商店平台：指证书商店服务提供者 Chatopera, 法律实体为**北京华夏春松科技有限公司**
+* 产品提供者：上架产品的个人、企业等组织
+* 购买者：从 Chatopera 证书商店下单支付，购买获得证书的使用用户
+
+//
