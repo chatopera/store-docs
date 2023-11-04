@@ -106,6 +106,9 @@ Chatopera 证书商店是开发者的收银工具， [https://store.chatopera.co
 
 ![img](./assets/imgs/screenshot_20231103150656.png)
 
+## 上架流程
+
+![img](./assets/imgs/screenshot_20231104081444.png)
 
 # 附录
 
