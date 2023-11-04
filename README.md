@@ -117,7 +117,7 @@ Chatopera 证书商店是开发者的收银工具， [https://store.chatopera.co
 * 产品提供者：上架产品的个人、企业等组织
 * 购买者：从 Chatopera 证书商店下单支付，购买获得证书的使用用户
 
-## 证书商店-文档中心
+## 文档中心
 
 * [GitHub](https://github.com/chatopera/store-docs) 
 * [Gitee](https://gitee.com/chatopera/store-docs) 
