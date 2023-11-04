@@ -9,8 +9,7 @@
 ![img](./assets/imgs/screenshot_20231103151553.png)
 
 # Chatopera 证书商店
-
-[Gitee](https://gitee.com/chatopera/store-docs) | [GitHub](https://github.com/chatopera/store-docs) | [Gitcode](https://gitcode.net/chatopera/store-docs)
+介绍视频：[Bilibili](https://www.bilibili.com/video/BV1SH4y1z7or) | [YouTube](https://youtu.be/F_wvqNJzigg)
 
 Chatopera 证书商店是开发者的收银工具， [https://store.chatopera.com](https://store.chatopera.com)
 
@@ -117,5 +116,11 @@ Chatopera 证书商店是开发者的收银工具， [https://store.chatopera.co
 * Chatopera 证书商店平台,证书商店平台：指证书商店服务提供者 Chatopera, 法律实体为**北京华夏春松科技有限公司**
 * 产品提供者：上架产品的个人、企业等组织
 * 购买者：从 Chatopera 证书商店下单支付，购买获得证书的使用用户
+
+## 证书商店-文档中心
+
+* [GitHub](https://github.com/chatopera/store-docs) 
+* [Gitee](https://gitee.com/chatopera/store-docs) 
+* [Gitcode](https://gitcode.net/chatopera/store-docs)
 
 //
