@@ -1,0 +1,34 @@
+name: gitee
+
+on: 
+  - push
+  - delete
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    name: Git Repo Sync
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - uses: wangchucheng/git-repo-sync@v0.1.0
+      with:
+        target-url: https://gitee.com/readthe/store-docs.git
+        target-username: ${{ secrets.USERNAME }}
+        target-token: ${{ secrets.ACCESS_TOKEN }}
+
+    - uses: wangchucheng/git-repo-sync@v0.1.0
+      with:
+        target-url: https://gitee.com/chatopera/store-docs.git
+        target-username: ${{ secrets.USERNAME }}
+        target-token: ${{ secrets.ACCESS_TOKEN }}
+
+    - uses: yanglbme/gitee-pages-action@main
+      with:
+        gitee-username: ${{ secrets.USERNAME }}
+        gitee-password: ${{ secrets.GITEE_USER_PASSWORD }}
+        gitee-repo: readthe/store-docs
+        branch: gh-pages
+

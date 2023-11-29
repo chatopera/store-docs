@@ -23,5 +23,4 @@ git add --all
 git commit -m "Update content"
 
 git push origin master -f && \
-    git push github master -f && \
-    git push gitcode master -f
+    git push gitee master -f
