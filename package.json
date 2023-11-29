@@ -1,7 +1,7 @@
 {
   "name": "store-docs",
   "version": "0.0.0",
-  "private": true,
+  "packageManager": "yarn@4.0.2",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
@@ -39,6 +39,6 @@
     ]
   },
   "engines": {
-    "node": ">=18.0"
+    "node": ">=20"
   }
 }
