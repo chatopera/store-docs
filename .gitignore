@@ -6,7 +6,6 @@
 jmeter.log
 __pycache__
 tmp/
-package-lock.json
 node_modules/
 sftp-config.json
 .DS_Store
