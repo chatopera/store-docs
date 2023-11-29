@@ -14,13 +14,13 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 20
-          cache: yarn
+          cache: npm
 
       - name: Install dependencies
-        run: yarn i
+        run: corepack enable && yarn install
 
       - name: Build website
-        run: yarn run build && mkdir -p build/.github/workflows && cp .github/workflows/gitee.yml build/.github/workflows && ls ./build/.github/workflows
+        run: npm run build && mkdir -p build/.github/workflows && cp .github/workflows/gitee.yml build/.github/workflows && ls ./build/.github/workflows
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
