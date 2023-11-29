@@ -17,7 +17,7 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: corepack enable && yarn install && npm install -g docusaurus
+        run: npm ci
 
       - name: Build website
         run: npm run build && mkdir -p build/.github/workflows && cp .github/workflows/gitee.yml build/.github/workflows && ls ./build/.github/workflows
